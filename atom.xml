@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>小一皮的博客（垃圾桶）</title>
   
-  
+  <subtitle>欢迎莅临</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-26T07:34:35.307Z</updated>
+  <updated>2019-06-26T09:47:35.621Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>呓语vol.2</title>
+    <link href="http://yoursite.com/2019/06/26/%E5%91%93%E8%AF%ADvol.2/"/>
+    <id>http://yoursite.com/2019/06/26/呓语vol.2/</id>
+    <published>2019-06-26T08:16:29.000Z</published>
+    <updated>2019-06-26T09:47:35.621Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="呓语vol-2"><a href="#呓语vol-2" class="headerlink" title="呓语vol.2"></a>呓语vol.2</h1><blockquote><p>别试图向别人述说你的难过， 没经历过的人会嗤之以鼻， 经历过的人会说别想太多， 关心你的人会焦虑，讨厌你的人会欢喜， 最终你会感到绝望。</p></blockquote><blockquote><p>世界上哪有那么多感同身受，更多的只是冷暖自知罢了。</p></blockquote><blockquote><p>如果没有抵御邪恶的能力，请别批判，你每天面对的都需要积极向上，不要陷入太深。</p></blockquote><p>呓语是梦话的意思，各位看官就当我痴人说梦吧！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="呓语" scheme="http://yoursite.com/tags/%E5%91%93%E8%AF%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>呓语vol.1</title>

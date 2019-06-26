@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-25T15:18:17.215Z</updated>
+  <updated>2019-06-26T06:43:40.746Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,56 +18,12 @@
   
   <entry>
     <title></title>
-    <link href="http://yoursite.com/2019/06/25/%E6%97%A0%E6%A0%87%E9%A2%98Markdown/"/>
-    <id>http://yoursite.com/2019/06/25/无标题Markdown/</id>
-    <published>2019-06-25T15:18:44.968Z</published>
-    <updated>2019-06-25T15:18:17.215Z</updated>
+    <link href="http://yoursite.com/2019/06/26/%E5%91%93%E8%AF%ADNo.1/"/>
+    <id>http://yoursite.com/2019/06/26/呓语No.1/</id>
+    <published>2019-06-26T06:44:11.669Z</published>
+    <updated>2019-06-26T06:43:40.746Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>呓语</p></blockquote><p>text</p><p>asd</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>hell</title>
-    <link href="http://yoursite.com/2019/05/06/hell/"/>
-    <id>http://yoursite.com/2019/05/06/hell/</id>
-    <published>2019-05-06T13:48:48.000Z</published>
-    <updated>2019-05-20T14:51:01.411Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-      <category term="hhhhhhhhhhhhhhhhhhh" scheme="http://yoursite.com/tags/hhhhhhhhhhhhhhhhhhh/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/05/06/hello-world/"/>
-    <id>http://yoursite.com/2019/05/06/hello-world/</id>
-    <published>2019-05-06T13:11:31.103Z</published>
-    <updated>2019-05-20T14:49:46.835Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>偶然看到这么一段话：</p><blockquote><p>加菲猫里有一段话，讲有一天，加菲猫走丢了，被卖给了一家宠物店。他怕乔恩找不到他而着急，他非常痛苦。终于有一天，乔恩走进了宠物店，看到了加菲猫，欣喜若狂，将他买回家中，结局圆满。 故事的最后那只肥猫背对着落日说了这样一句话“我永远也不会问乔恩，那天他为什么会走进宠物店”。</p></blockquote><p>出自网易云音乐歌曲《don’t know why》歌手：ROOK1E 里的热评 <a href="https://music.163.com/#/song?id=441116324" target="_blank" rel="noopener">直达链接</a></p><p>当然此热评里的另外一个热评也十分有趣。</p><p>呓语，没准备惊醒梦中之人，只想能获得一丝丝的共鸣。</p>]]></content>
     
     <summary type="html">
     

@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #9c81d9;
+  background: #ff4a6a;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3261,10 +3261,10 @@ img:hover {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 .site-meta {
-  background: #000;
+  background: $yellow;
 }
 body {
-  background-image: url("/images/background.jpg");
+  background-image: url("/images/background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;

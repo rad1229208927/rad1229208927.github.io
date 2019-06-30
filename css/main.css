@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5e6290;
+  background: #82a3ec;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3261,29 +3261,12 @@ img:hover {
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
 .site-meta {
-  background: #fc6423;
-}
-* {
-  cursor: url(""), auto !important;
-}
-:active {
-  cursor: url(""), auto !important;
+  background: #000;
 }
 body {
   background-image: url("/images/background.jpg");
-  background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
-}
-body ；,
-body .main-inner {
-  padding: 25px;
-  opacity: 0.85;
-  border-radius: 10px;
-  right: 0 !important;
-  top: 0 !important;
-  bottom: 0 !important;
-}
-body .main {
-  margin-bottom: 0px;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: 100% 100%;
 }

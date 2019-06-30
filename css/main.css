@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #2ea3ff;
+  background: #6bb445;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3257,9 +3257,8 @@ img:hover {
   background: $yellow;
 }
 body {
-  background-image: url("https://i.loli.net/2019/06/30/5d187de78dcc836865.png");
+  background: url("https://source.unsplash.com/random/1600x900");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-  background-size: 100% 100%;
 }

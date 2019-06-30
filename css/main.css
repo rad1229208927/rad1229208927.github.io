@@ -1929,7 +1929,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #26df71;
+  background: #ffff9e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3257,8 +3257,15 @@ img:hover {
   background: $yellow;
 }
 body {
-  background: url("https://source.unsplash.com/random/1600x900");
+  background-image: url("/images/background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
+  background-size: 100% 100%;
+}
+.main-inner {
+  background: #fff;
+  padding: 25px;
+  opacity: 0.75;
+  border-radius: 10px;
 }
